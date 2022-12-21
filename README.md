@@ -1,3 +1,3 @@
 # gitskills
 create new branch is fast
-create a new brach is fast & simple
+Create a new brach is fast and simple
